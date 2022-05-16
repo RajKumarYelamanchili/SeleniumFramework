@@ -1,0 +1,102 @@
+[INFO ] 2022-05-08 18:08:46.601 [main] RoughTest - Log4j info message
+[DEBUG] 2022-05-08 18:08:46.603 [main] RoughTest - Log4j debug message
+[WARN ] 2022-05-08 18:08:46.603 [main] RoughTest - Log4j warn message
+[ERROR] 2022-05-08 18:08:46.603 [main] RoughTest - Log4j error message
+[FATAL] 2022-05-08 18:08:46.603 [main] RoughTest - Log4j fatal message
+[INFO ] 2022-05-08 18:18:02.851 [main] RoughTest - Log4j info message
+[DEBUG] 2022-05-08 18:18:02.853 [main] RoughTest - Log4j debug message
+[WARN ] 2022-05-08 18:18:02.853 [main] RoughTest - Log4j warn message
+[ERROR] 2022-05-08 18:18:02.853 [main] RoughTest - Log4j error message
+[FATAL] 2022-05-08 18:18:02.854 [main] RoughTest - Log4j fatal message
+[INFO ] 2022-05-08 18:18:44.412 [main] RoughTest - Log4j info message
+[DEBUG] 2022-05-08 18:18:44.426 [main] RoughTest - Log4j debug message
+[WARN ] 2022-05-08 18:18:44.427 [main] RoughTest - Log4j warn message
+[ERROR] 2022-05-08 18:18:44.427 [main] RoughTest - Log4j error message
+[FATAL] 2022-05-08 18:18:44.427 [main] RoughTest - Log4j fatal message
+[INFO ] 2022-05-08 18:21:30.085 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-08 18:21:32.177 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-08 18:21:34.274 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-08 18:21:36.338 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-08 18:23:47.844 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-08 18:23:49.909 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-08 18:23:51.997 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-08 18:23:54.079 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-08 18:25:58.869 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-08 18:26:00.940 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-08 18:26:03.037 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-08 18:26:05.101 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-08 18:38:20.716 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-08 18:38:22.789 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-08 18:38:24.880 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-08 18:38:27.012 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-08 18:40:33.586 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-08 18:40:35.689 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-08 18:40:37.731 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-08 18:40:44.988 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-09 12:58:21.011 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-09 12:58:23.133 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-09 12:58:25.202 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-09 12:58:32.473 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-09 12:59:21.270 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-09 12:59:23.373 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-09 12:59:25.525 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-09 12:59:27.616 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-09 20:24:13.047 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-09 20:24:15.153 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-09 20:24:17.304 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-09 20:24:19.374 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-09 20:25:50.861 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-09 20:25:52.981 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-09 20:25:55.093 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-09 20:25:57.236 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-10 22:31:21.442 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-10 22:31:23.541 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-10 22:31:25.642 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-10 22:31:27.711 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-10 22:39:25.011 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-10 22:39:27.082 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-10 22:39:29.165 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-10 22:39:31.226 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-11 11:27:17.109 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-11 11:27:19.278 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-11 11:27:21.409 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-11 11:27:23.553 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-11 11:32:10.369 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-11 11:32:12.464 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-11 11:32:14.567 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-11 11:32:16.628 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-11 12:11:38.794 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-11 12:11:40.905 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-11 12:11:42.996 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-11 12:11:45.052 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-12 07:39:36.766 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-12 07:39:38.870 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-12 07:39:40.948 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-12 07:39:43.010 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-12 07:40:35.312 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-12 07:40:37.404 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-12 07:40:39.516 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-12 23:58:55.425 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-12 23:58:57.507 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-12 23:58:59.581 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-12 23:59:01.643 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-13 11:18:22.654 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-13 11:18:24.736 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-13 11:18:26.850 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-13 11:18:28.904 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-13 11:45:25.414 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-13 11:45:27.483 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-13 11:45:29.565 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-13 11:45:31.622 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-13 11:46:22.147 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-13 11:46:24.230 [main] LoginPageTestCase - username entered
+[INFO ] 2022-05-13 11:46:26.314 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-13 11:46:28.376 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-13 12:47:35.785 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-13 12:47:37.931 [main] LoginPageTestCase - username entered in log
+[INFO ] 2022-05-13 12:47:40.052 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-13 12:47:42.149 [main] LoginPageTestCase - login button clicked
+[INFO ] 2022-05-13 14:20:42.768 [main] LoginPageTestCase - url opened
+[INFO ] 2022-05-13 14:20:44.898 [main] LoginPageTestCase - username entered in log
+[INFO ] 2022-05-13 14:20:47.019 [main] LoginPageTestCase - password entered
+[INFO ] 2022-05-13 14:20:49.097 [main] LoginPageTestCase - login button clicked
